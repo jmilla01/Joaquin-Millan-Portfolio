@@ -18,7 +18,7 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> LinkedIn </h1>
 
-linkedin: https://www.linkedin.com/in/jmillanlanhozo/
+[Linkedin](https://www.linkedin.com/in/jmillanlanhozo/)
 
 [Table of Contents](#table-of-contents)
 
@@ -30,7 +30,7 @@ linkedin: https://www.linkedin.com/in/jmillanlanhozo/
 
 Designed a data pipeline that seamlessly ingests raw data through Google Cloud Platform (GCP). This pipeline performs ETL functions to load the data into BigQuery. Subsequently, by integrating with Power BI and Streamlit, it powers an efficient web platform. This platform not only provides restaurant recommendation systems but also offers a dynamic dashboard for tracking essential KPIs
 
-https://github.com/Constanzafl/Proyecto_Final/tree/main
+[Github](https://github.com/Constanzafl/Proyecto_Final/tree/main)
 
 #### **`Data Science in Soy Henry`**
 
@@ -38,13 +38,13 @@ https://github.com/Constanzafl/Proyecto_Final/tree/main
 
 Established connections through various cryptocurrency APIs to extract data, followed by comprehensive analysis and the creation of an informative dashboard featuring key performance indicators (KPIs).
 
-https://github.com/jmilla01/Proyecto_PI_DA
+[Github](https://github.com/jmilla01/Proyecto_PI_DA)
 
 ##### First Individual Project - MLOPS
 
 Conducted in-depth movie analysis, crafted customized film recommendations, and successfully launched an API to facilitate easy access to diverse endpoints.
 
-https://github.com/jmilla01/Proyecto_MLOPS
+[Github](https://github.com/jmilla01/Proyecto_MLOPS)
 
 #### **`Data Science in MundosE`**
 
