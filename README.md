@@ -64,7 +64,7 @@ I  developed a dashboard specifically for my work at Raizen to analyze the compa
 
 This all started when my company's BI area report was malfunctioning due to unproperly integration of data. I developed this dashboard to solve that problem. I got the sell in information from our company's internal data repository, and for sell out, I used an external repository host for information where it was performed some ETL of data so we could match distributors information to talk the same language as us(for example: transformation of distributors SKUs codes to my companies name and information associated to them).
 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix)-[PDF]()
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix)-[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pdf)
 
 #### **`Data Science in Digital House`**
 The objective of this notebook is to see the movement of the Argentinian's government bikes "Ecobicis". We created a model to predict the flow of bikes, this way we could isolate which bike stations have bigger demand and redistribute supply accordingly.
@@ -80,50 +80,50 @@ As a BI Analyst I was in charge of teaching our sales and marketing departments 
 This dashboard was developed for the BI-EXPORT team, before they didn't had any dashboards, so all their analyses were made in Excel. This dashboard was developed for them so they could manage better their information.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/BI_Export_AR.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/BI_Export_AR.pdf)
 
 This dashboard  was presented as an idea, to show to my bosses, how to analyze our distributors sell out information(their sells to their customers) before there was nothing. This then turned into a big project of analysing all of our distributors information, all in one dashboard, where we performed ETL to adapt our distributors information to our companies same language. (I don't have this final dashboard due to not working more in the company and confidentiality information) but i will post the idea presented at the beginning.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Dist_pr_ej.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Dist_pr_ej.pdf)
 
 #### **`Data Analytics in Digital House`**
 
 1. This project was made with some class teammates, presenting information about energy and it's features associated focusing our research in Argentina. 
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/TP_DH.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/TP_DH.pdf)
 
 
 2. This dashboard was presented analyzing Fifa's Playstation game dataset.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Fifa_dh.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Fifa_dh.pdf)
 
 3. This dashboard analyzed a store information.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Supertienda_DH.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Supertienda_DH.pdf)
 
 4. This dashboard provided from a public a dataset from Uber.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Uber_dh.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Uber_dh.pdf)
 
 5. This dashboard analyzes causes of layoff in an specific dataset provided from an HR Department.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/HR_EJEMPLO_DH.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/HR_EJEMPLO_DH.pdf)
 
 6. This dashboard shows an analyzis of goverment bikes in 2014.
 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Ecobici.ipynb)
-[PDF]()
+[Notebook](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Ecobici.ipynb)
+
 
 7. In this dashboard "Adventure works" is analyzed  it sells performance.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Adventure_works_dh.pbix)
-[PDF]()
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Adventure_works_dh.pdf)
 
 [Table of Contents](#table-of-contents)
 
