@@ -18,7 +18,7 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> LinkedIn </h1>
 
-[Linkedin](https://www.linkedin.com/in/jmillanlanhozo/)
+[Linkedin](https://www.linkedin.com/in/jmillanlanhozo/) JOAQUIN MILLAN LANHOZO
 
 [Table of Contents](#table-of-contents)
 
@@ -50,13 +50,13 @@ Conducted in-depth movie analysis, crafted customized film recommendations, and 
 
 This notebook has been developed to analyze and predict layoffs of the tech industry
 
-[https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Project_ds_coder.ipynb](https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Hackaton_TechLayoffs_Project.ipynb)
+[Notebook](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Hackaton_TechLayoffs_Project.ipynb)
 
 #### **`Data Science in Coderhouse`**
 
 In this project I developed a clasification model that predicted if a client would suscribe or not to a term deposit.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Project_ds_coder.ipynb
+[Notebook](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Project_ds_coder.ipynb)
 
 #### **`Data Analytics in Rocking data`**
 
@@ -64,56 +64,66 @@ I  developed a dashboard specifically for my work at Raizen to analyze the compa
 
 This all started when my company's BI area report was malfunctioning due to unproperly integration of data. I developed this dashboard to solve that problem. I got the sell in information from our company's internal data repository, and for sell out, I used an external repository host for information where it was performed some ETL of data so we could match distributors information to talk the same language as us(for example: transformation of distributors SKUs codes to my companies name and information associated to them).
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Distribudores_adaptado.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix)-[PDF]()
 
 #### **`Data Science in Digital House`**
 The objective of this notebook is to see the movement of the Argentinian's government bikes "Ecobicis". We created a model to predict the flow of bikes, this way we could isolate which bike stations have bigger demand and redistribute supply accordingly.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Ecobici.ipynb
+[Notebook](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Ecobici.ipynb)
 
 #### **`Business Intelligence Analyst - Pernod Ricard`**
 
 As a BI Analyst I was in charge of teaching our sales and marketing departments to use our developed Power BI dashboards to help them make informed decisions.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Induccion_Power_BI.pdf
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Induccion_Power_BI.pdf)
 
 This dashboard was developed for the BI-EXPORT team, before they didn't had any dashboards, so all their analyses were made in Excel. This dashboard was developed for them so they could manage better their information.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BI_Export_AR.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/BI_Export_AR.pbix)
+[PDF]()
 
 This dashboard  was presented as an idea, to show to my bosses, how to analyze our distributors sell out information(their sells to their customers) before there was nothing. This then turned into a big project of analysing all of our distributors information, all in one dashboard, where we performed ETL to adapt our distributors information to our companies same language. (I don't have this final dashboard due to not working more in the company and confidentiality information) but i will post the idea presented at the beginning.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Dist_pr_ej.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Dist_pr_ej.pbix)
+[PDF]()
 
 #### **`Data Analytics in Digital House`**
 
 1. This project was made with some class teammates, presenting information about energy and it's features associated focusing our research in Argentina. 
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/TP_DH.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/TP_DH.pbix)
+[PDF]()
+
 
 2. This dashboard was presented analyzing Fifa's Playstation game dataset.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Fifa_dh.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Fifa_dh.pbix)
+[PDF]()
 
 3. This dashboard analyzed a store information.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Supertienda_DH.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Supertienda_DH.pbix)
+[PDF]()
 
 4. This dashboard provided from a public a dataset from Uber.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Uber_dh.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Uber_dh.pbix)
+[PDF]()
 
 5. This dashboard analyzes causes of layoff in an specific dataset provided from an HR Department.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/HR_EJEMPLO_DH.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/HR_EJEMPLO_DH.pbix)
+[PDF]()
 
 6. This dashboard shows an analyzis of goverment bikes in 2014.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/BA_ECOBICIO_DESAFIO_DH.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Ecobici.ipynb)
+[PDF]()
 
 7. In this dashboard "Adventure works" is analyzed  it sells performance.
 
-https://github.com/jmilla01/Joaquin-Millan---Portfolio/blob/main/Adventure_works_dh.pbix
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Adventure_works_dh.pbix)
+[PDF]()
 
 [Table of Contents](#table-of-contents)
 
@@ -155,30 +165,30 @@ SQL - Hadoop - Hive - Spark - Python - Power BI - Tableau - Machine learning Mod
 
 #### Data Science in MundosE. Sep 2022 – Mar 2023
 Machine learning modelling
-[https://www.linkedin.com/feed/update/urn:li:activity:7018924839277080577/](https://www.linkedin.com/feed/update/urn:li:activity:7059634427768770561/)
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7059634427768770561/)
 
 #### Data Science in Coder House. May 2022 – Dec 2022
 EDA - Machine learning modelling
-https://www.linkedin.com/feed/update/urn:li:activity:7018924839277080577/
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7018924839277080577/)
 
 #### Data Analysis with Python in Humai. Oct 2022 – Nov 2022
 Data analysis
-https://www.linkedin.com/feed/update/urn:li:activity:7008425151474089984/
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7008425151474089984/)
 
 #### Data Analytics with Power BI in Rockingdata. Aug 2022 – Oct 2022
 Data analysis
-https://www.linkedin.com/feed/update/urn:li:activity:6985582477633302529/
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6985582477633302529/)
 
 #### Product Manager in Coder House. Jul 2022 – Sep 2022
 Product Development
-https://www.linkedin.com/feed/update/urn:li:activity:6978183912531333120/
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6978183912531333120/)
 
 #### Data Science in Digital House. Aug 2021 – Mar 2022
 Machine learning modelling
 
 #### Data Analytics in Digital House. Sep 2020 – Mar 2021
 Dashboards in Power BI and Tableau. SQL
-https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/)
 
 [Table of Contents](#table-of-contents)
 
