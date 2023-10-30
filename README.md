@@ -26,7 +26,17 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 #### **`Data Science in Soy Henry`**
 
-##### Final  Project - Proyecto integrados
+##### Sports dashboard for minor leagues for a football team - Nov 23
+
+This dashboard was created using data from physical tests administered by the coaches of a prominent football club of Argentina's minor leagues. Designed to aid in tracking the progress of players and managing their physical tests, this project plays a crucial role in optimizing player development and performance analysis.
+
+Please note that, due to confidential information, data has been altered to mantain privacy .
+
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix)
+[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf)
+
+
+##### Final  Project - Integrative Project - Oct 23
 
 Designed a data pipeline that seamlessly ingests raw data through Google Cloud Platform (GCP). This pipeline performs ETL functions to load the data into BigQuery. Subsequently, by integrating with Power BI and Streamlit, it powers an efficient web platform. This platform not only provides restaurant recommendation systems but also offers a dynamic dashboard for tracking essential KPIs
 
@@ -34,19 +44,19 @@ Designed a data pipeline that seamlessly ingests raw data through Google Cloud P
 
 #### **`Data Science in Soy Henry`**
 
-##### Second Individual Project - Data Analytics
+##### Second Individual Project - Data Analytics - Sep 23
 
 Established connections through various cryptocurrency APIs to extract data, followed by comprehensive analysis and the creation of an informative dashboard featuring key performance indicators (KPIs).
 
 [Github](https://github.com/jmilla01/Proyecto_PI_DA)
 
-##### First Individual Project - MLOPS
+##### First Individual Project - MLOPS - Aug 23
 
 Conducted in-depth movie analysis, crafted customized film recommendations, and successfully launched an API to facilitate easy access to diverse endpoints.
 
 [Github](https://github.com/jmilla01/Proyecto_MLOPS)
 
-#### **`Data Science in MundosE`**
+#### **`Data Science in MundosE - Mar 23`** 
 
 This notebook has been developed to analyze and predict layoffs of the tech industry
 
