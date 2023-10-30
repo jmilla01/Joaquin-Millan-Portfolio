@@ -18,7 +18,7 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> LinkedIn </h1>
 
-[Linkedin](https://www.linkedin.com/in/jmillanlanhozo/) JOAQUIN MILLAN LANHOZO
+[Linkedin JOAQUIN MILLAN LANHOZO](https://www.linkedin.com/in/jmillanlanhozo/) 
 
 [Table of Contents](#table-of-contents)
 
