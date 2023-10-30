@@ -24,8 +24,6 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> Relevant work experience </h1>
 
-#### **`Data Science in Soy Henry`**
-
 ##### Sports dashboard for minor leagues for a football team - Nov 23
 
 This dashboard was created using data from physical tests administered by the coaches of a prominent football club of Argentina's minor leagues. Designed to aid in tracking the progress of players and managing their physical tests, this project plays a crucial role in optimizing player development and performance analysis.
@@ -33,8 +31,10 @@ This dashboard was created using data from physical tests administered by the co
 Please note that, due to confidential information, data has been altered to mantain privacy .
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix)
+
 [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf)
 
+#### **`Data Science in Soy Henry`**
 
 ##### Final  Project - Integrative Project - Oct 23
 
@@ -42,7 +42,6 @@ Designed a data pipeline that seamlessly ingests raw data through Google Cloud P
 
 [Github](https://github.com/Constanzafl/Proyecto_Final/tree/main)
 
-#### **`Data Science in Soy Henry`**
 
 ##### Second Individual Project - Data Analytics - Sep 23
 
