@@ -24,23 +24,23 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> Relevant work experience </h1>
 
-##### Sports dashboard for minor leagues for a football team - Update Dashboard - Feb 2024
 
-The client asked me to change the dashboard with a lot more players included from more divisions, and wanted to see all in a page.
-
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV1.pbix)
-
-[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV1.pdf)
-
+##### Sports dashboard for minor leagues for a football team
 **Nov 23 - 1ST Version**
 
 This dashboard was created using data from physical tests administered by the coaches of a prominent football club of Argentina's minor leagues. Designed to aid in tracking the progress of players and managing their physical tests, this project plays a crucial role in optimizing player development and performance analysis.
 
 Please note that, due to confidential information, data has been altered to mantain privacy .
 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix)
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf) 
 
-[PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf)
+**Update Dashboard - Feb 2024**
+
+The client asked me to change the dashboard with a lot more players included from more divisions, and wanted to see all in a page.
+
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV1.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV1.pdf)
+
+
 
 
 
