@@ -24,14 +24,14 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> Relevant work experience </h1>
 
-#### ** Pro bono experience**
+#### **`Pro bono experience`**
 
 ##### Scoring system - Apr 24
 
 Designed to revolutionize the assessment of drivers seeking financial support from a company specializing in lending infrastructure for banks and fintechs. By seamlessly integrating with drivers' apps such as Uber and Cabify, the notebook harnesses their earnings history, trip data, and engagement with the lending company to generate a comprehensive scoring system. This innovative solution empowers the company to make informed credit offers to mobility gig workers, leveraging their driving history as a reliable indicator of creditworthiness, ultimately expanding access to financial services for those traditionally excluded from the system
 
 
-##### Sports dashboard for minor leagues for a football team
+##### **`Sports dashboard for minor leagues for a football team`**
 Nov 23 - 1st Version --> This dashboard was created using data from physical tests administered by the coaches of a prominent football club of Argentina's minor leagues. Designed to aid in tracking the progress of players and managing their physical tests, this project plays a crucial role in optimizing player development and performance analysis.
 
 Please note that, due to confidential information, data has been altered to mantain privacy .
