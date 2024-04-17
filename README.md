@@ -28,7 +28,9 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ##### Scoring system - Apr 24
 
-Designed to revolutionize the assessment of drivers seeking financial support from a company specializing in lending infrastructure for banks and fintechs. By seamlessly integrating with drivers' apps such as Uber and Cabify, the notebook harnesses their earnings history, trip data, and engagement with the lending company to generate a comprehensive scoring system. This innovative solution empowers the company to make informed credit offers to mobility gig workers, leveraging their driving history as a reliable indicator of creditworthiness, ultimately expanding access to financial services for those traditionally excluded from the system
+Designed to revolutionize the assessment of drivers seeking financial support from a company specializing in lending infrastructure for banks and fintechs. By seamlessly integrating with drivers' apps such as Uber and Cabify, the notebook harnesses their earnings history, trip data, and engagement with the lending company to generate a comprehensive scoring system. This innovative solution empowers the company to make informed credit offers to mobility gig workers, leveraging their driving history as a reliable indicator of creditworthiness, ultimately expanding access to financial services for those traditionally excluded from the system.
+
+[Notebook](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/ScoreCreditos_v2.ipynb)
 
 
 ##### **`Sports dashboard for minor leagues for a football team`**
