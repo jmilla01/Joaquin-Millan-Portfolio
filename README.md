@@ -24,6 +24,17 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> Relevant work experience </h1>
 
+#### **`B2B Value Proposition Raizen`**
+
+##### Dashboards for different departmens - May 24
+
+By accessing the database, I designed tailored dashboards in accordance with the requirements outlined by the commercial teams. These dashboards were meticulously crafted to filter information and facilitate specific analyses, empowering both the commercial teams and myself to conduct more thorough, effective assessments of market data. Additionally, I contributed to the development of a dedicated retail dashboard for another team within the organization, further expanding the reach and impact of analytical capabilities.
+
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf) 
+
+I also led the development of a specialized dashboard tailored for tracking a promotional campaign, meticulously filtering data to suit this specific scenario. In this initiative, our goal was to boost both volume and premium sales while expanding our reach to indirect clients through distributors. We devised a comprehensive program, outlining objectives for distributor managers, sales teams, and clients alike. This dashboard proved instrumental in monitoring progress and demand for results throughout the campaign. Despite the ambitious nature of our objectives, while it may seem that we did not fully meet them, the results speak: volumes Sales experienced a notable 13% growth compared to the previous year, accompanied by a 4% increase in our customer base.
+
+
 #### **`Pro bono experience`**
 
 ##### Scoring system - Apr 24
