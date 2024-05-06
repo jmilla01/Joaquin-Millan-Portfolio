@@ -8,7 +8,7 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 
 ## Table of contents
-- [LinkedIn](#linkedin)
+- [Contact](#contact)
 - [Skills](#skills)
 - [Education](#education)
 - [Working history](#working-history)
@@ -17,9 +17,10 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 
 
-## <h1 align=center> LinkedIn </h1>
+## <h1 align=center> Contact </h1>
 
-[Linkedin JOAQUIN MILLAN LANHOZO](https://www.linkedin.com/in/jmillanlanhozo/) 
+[Linkedin JOAQUIN MILLAN LANHOZO](https://www.linkedin.com/in/jmillanlanhozo/)
+[Email JOAQUIN MILLAN LANHOZO](joacomillan95@gmail.com)
 
 [Table of Contents](#table-of-contents)
 
