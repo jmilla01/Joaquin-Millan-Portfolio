@@ -20,7 +20,9 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 ## <h1 align=center> Contact </h1>
 
 [Linkedin JOAQUIN MILLAN LANHOZO](https://www.linkedin.com/in/jmillanlanhozo/)
+
 [Click here to contact me by email](mailto:joacomillan95@gmail.com)
+
 
 [Table of Contents](#table-of-contents)
 
