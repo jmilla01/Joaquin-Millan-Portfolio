@@ -8,7 +8,7 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 
 ## Table of contents
-- [Contact](#contact)
+- [Contact](#-contact-)
 - [Skills](#skills)
 - [Education](#education)
 - [Working history](#working-history)
