@@ -9,10 +9,11 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## Table of contents
 - [LinkedIn](#linkedin)
-- [Some work experience](#relevant-work-experience)
-- [Working history](#working-history)
-- [Education](#education)
 - [Skills](#skills)
+- [Education](#education)
+- [Working history](#working-history)
+- [Some work experience](#relevant-work-experience)
+
 
 
 
@@ -21,6 +22,84 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 [Linkedin JOAQUIN MILLAN LANHOZO](https://www.linkedin.com/in/jmillanlanhozo/) 
 
 [Table of Contents](#table-of-contents)
+
+## <h1 align=center> Skills </h1>
+
+- Python
+- R Studio
+- Power BI
+- Tableau
+- SQL
+- Cloud computing
+
+[Table of Contents](#table-of-contents)
+
+## <h1 align=center> Education </h1>
+
+#### Data Science in Soy Henry. Apr 2023 - Present
+SQL - Hadoop - Hive - Spark - Python - Power BI - Tableau - Machine learning Modelling
+
+
+#### Data Science in MundosE. Sep 2022 – Mar 2023
+Machine learning modelling
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7059634427768770561/)
+
+#### Data Science in Coder House. May 2022 – Dec 2022
+EDA - Machine learning modelling
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7018924839277080577/)
+
+#### Data Analysis with Python in Humai. Oct 2022 – Nov 2022
+Data analysis
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7008425151474089984/)
+
+#### Data Analytics with Power BI in Rockingdata. Aug 2022 – Oct 2022
+Data analysis
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6985582477633302529/)
+
+#### Product Manager in Coder House. Jul 2022 – Sep 2022
+Product Development
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6978183912531333120/)
+
+#### Data Science in Digital House. Aug 2021 – Mar 2022
+Machine learning modelling
+
+#### Data Analytics in Digital House. Sep 2020 – Mar 2021
+Dashboards in Power BI and Tableau. SQL
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/)
+
+[Table of Contents](#table-of-contents)
+
+## <h1 align=center> Working history </h1>
+
+#### B2B Value Proposition - Raizen
+#### Jun 2022- Present
+
+Responsible of data management, I effectively oversee the transmission of information from various distributor systems, consolidating diverse sales data with our internal system to generate impactful and actionable insights through the creation of intuitive and valuable dashboards.
+
+#### Senior Sales Operations Analyst - SC Johnson
+#### Jul 2021 - Jun 2022
+
+Created commercial reports that resulted in profit growth. Member of the team that introduced the Tableau automation program to the company, a new and more efficient way to collect, interpret, and present sales information for the commercial and marketing teams.Set objectives for the sales force and 
+
+
+#### Business Intelligence Analyst - Pernod Ricard
+#### May 2019 - Jul 2021
+
+Ran ad-hoc analyses to provide business insights to Pernod Ricard's teams. Supported current reporting structure, performing data analysis.
+
+#### Management Control Analyst - Pernod Ricard
+#### Aug 2018- May 2019
+
+Reported P&L, made forecasting and companies budgeting. 
+
+#### Sales Representative - Johnson & Johnson. 
+#### Sep 2017-Aug 2018
+
+In charge of the managing customers, selling Acuvue contact lenses to stores
+
+[Table of Contents](#table-of-contents)
+
+ 
 
 ## <h1 align=center> Relevant work experience </h1>
 
@@ -162,82 +241,6 @@ This dashboard  was presented as an idea, to show to my bosses, how to analyze o
 
 [Table of Contents](#table-of-contents)
 
-## <h1 align=center> Working history </h1>
-
-#### B2B Value Proposition - Raizen
-#### Jun 2022- Present
-
-Responsible of data management, I effectively oversee the transmission of information from various distributor systems, consolidating diverse sales data with our internal system to generate impactful and actionable insights through the creation of intuitive and valuable dashboards.
-
-#### Senior Sales Operations Analyst - SC Johnson
-#### Jul 2021 - Jun 2022
-
-Created commercial reports that resulted in profit growth. Member of the team that introduced the Tableau automation program to the company, a new and more efficient way to collect, interpret, and present sales information for the commercial and marketing teams.Set objectives for the sales force and 
-
-
-#### Business Intelligence Analyst - Pernod Ricard
-#### May 2019 - Jul 2021
-
-Ran ad-hoc analyses to provide business insights to Pernod Ricard's teams. Supported current reporting structure, performing data analysis.
-
-#### Management Control Analyst - Pernod Ricard
-#### Aug 2018- May 2019
-
-Reported P&L, made forecasting and companies budgeting. 
-
-#### Sales Representative - Johnson & Johnson. 
-#### Sep 2017-Aug 2018
-
-In charge of the managing customers, selling Acuvue contact lenses to stores
-
-[Table of Contents](#table-of-contents)
-
-## <h1 align=center> Education </h1>
-
-#### Data Science in Soy Henry. Apr 2023 - Present
-SQL - Hadoop - Hive - Spark - Python - Power BI - Tableau - Machine learning Modelling
-
-
-#### Data Science in MundosE. Sep 2022 – Mar 2023
-Machine learning modelling
-[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7059634427768770561/)
-
-#### Data Science in Coder House. May 2022 – Dec 2022
-EDA - Machine learning modelling
-[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7018924839277080577/)
-
-#### Data Analysis with Python in Humai. Oct 2022 – Nov 2022
-Data analysis
-[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7008425151474089984/)
-
-#### Data Analytics with Power BI in Rockingdata. Aug 2022 – Oct 2022
-Data analysis
-[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6985582477633302529/)
-
-#### Product Manager in Coder House. Jul 2022 – Sep 2022
-Product Development
-[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6978183912531333120/)
-
-#### Data Science in Digital House. Aug 2021 – Mar 2022
-Machine learning modelling
-
-#### Data Analytics in Digital House. Sep 2020 – Mar 2021
-Dashboards in Power BI and Tableau. SQL
-[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6787394782198034432/)
-
-[Table of Contents](#table-of-contents)
-
-## <h1 align=center> Skills </h1>
-
-- Python
-- R Studio
-- Power BI
-- Tableau
-- SQL
-- Cloud computing
-
-[Table of Contents](#table-of-contents)
- 
 
 
 
