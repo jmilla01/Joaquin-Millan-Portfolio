@@ -117,7 +117,7 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 #### **`B2B Value Proposition Raizen`**
 
-##### Dashboards for different departmens - May 24
+##### Dashboards for different departments - May 24
 
 By accessing the database, I designed tailored dashboards in accordance with the requirements outlined by the commercial teams. These dashboards were meticulously crafted to filter information and facilitate specific analyses, empowering both the commercial teams and myself to conduct more thorough, effective assessments of market data. Additionally, I contributed to the development of a dedicated retail dashboard for another team within the organization, further expanding the reach and impact of analytical capabilities.
 
