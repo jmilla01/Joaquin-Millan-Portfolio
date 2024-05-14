@@ -109,6 +109,10 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 #### **`Featured Projects`**
 
 - [Final project Henry](#final-project---integrative-project---oct-23)
+- [Raizen's dashboard](#dashboards-for-different-departments---may-24)
+- [Second Individual Project Henry](#second-individual-project---data-analytics---sep-23)
+
+
 
 
 #### **`B2B Value Proposition Raizen`**
