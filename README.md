@@ -106,6 +106,10 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 ## <h1 align=center> Relevant work experience </h1>
 
+#### **`Featured Projects`**
+
+- [Final project Henry](#-Final--Project----Integrative-Project---Oct-23)
+
 #### **`B2B Value Proposition Raizen`**
 
 ##### Dashboards for different departmens - May 24
