@@ -108,7 +108,7 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 #### **`Featured Projects`**
 
-- [Final project Henry](#-final-project---integrative-project---oct-23)
+- [Final project Henry](#final-project---integrative-project---oct-23)
 
 
 #### **`B2B Value Proposition Raizen`**
@@ -149,7 +149,7 @@ Update Dashboard - Feb 2024 --> The client asked me to change the dashboard with
 
 #### **`Data Science in Soy Henry`**
 
-##### Final  Project - Integrative Project - Oct 23
+##### Final Project - Integrative Project - Oct 23
 
 Designed a data pipeline that seamlessly ingests raw data through Google Cloud Platform (GCP). This pipeline performs ETL functions to load the data into BigQuery. Subsequently, by integrating with Power BI and Streamlit, it powers an efficient web platform. This platform not only provides restaurant recommendation systems but also offers a dynamic dashboard for tracking essential KPIs
 
