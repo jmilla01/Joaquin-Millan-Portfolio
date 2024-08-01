@@ -145,7 +145,7 @@ Please note that, due to confidential information, data has been altered to mant
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf) 
 
-Update Dashboard - Feb 2024 --> The client asked me to change the dashboard with a lot more players included from more divisions, and wanted to see all in a page.
+Update Dashboard - Aug 2024 --> The client asked me to change the dashboard with a lot more players included from more divisions, and wanted to see all the information in one page. Also, to have other pages to compare players.
 
 [File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV4.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV4.pdf)
 
