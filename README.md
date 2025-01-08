@@ -39,7 +39,7 @@ As a dedicated data scientist, I wholeheartedly embrace the realm of data analyt
 
 ## <h1 align=center> Education </h1>
 
-#### Data Science in Soy Henry. Apr 2023 - Present
+#### Data Science in Soy Henry. Apr 2023 - Dic 2023
 SQL - Hadoop - Hive - Spark - Python - Power BI - Tableau - Machine learning Modelling
 
 
@@ -75,7 +75,7 @@ Dashboards in Power BI and Tableau. SQL
 ## <h1 align=center> Working history </h1>
 
 #### B2B Value Proposition - Raizen
-#### Jun 2022- Present
+#### Jun 2022- Oct 2024
 
 Responsible of data management, I effectively oversee the transmission of information from various distributor systems, consolidating diverse sales data with our internal system to generate impactful and actionable insights through the creation of intuitive and valuable dashboards.
 
