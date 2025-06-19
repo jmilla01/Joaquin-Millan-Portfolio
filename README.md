@@ -116,22 +116,22 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 ##### **`Sports dashboard for minor leagues for a football team`**
 
-**`Update Dashboard`** - *Jan 2025* --> The client asked me to change the dashboard with a lot more players included from more divisions,more training excercise data and wanted to see all the information in one page. Also, to have other pages to compare players.
+**`Update Dashboard`** - *June 2025* --> The client asked me to change the dashboard with a lot more players included from more divisions,more training excercise data and wanted to see all the information in one page. Also, to have other pages to compare players.
 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV12.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadoresV12.pdf)
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadores.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadores.pdf)
 
 Nov 23 - 1st Version --> This dashboard was created using data from physical tests administered by the coaches of a prominent football club of Argentina's minor leagues. Designed to aid in tracking the progress of players and managing their physical tests, this project plays a crucial role in optimizing player development and performance analysis.
 
 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Distribudores_adaptado.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf) 
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/Jugadores_CAI_adaptado.pdf) 
 
 
 
 
 ##### **`Sports dashboard for coach for tracking trainings data`**
 
-Dic 2024 --> The coach ask me to set a dashboard with a database that he has on an excel sheet from his tracking of the trainings, he's the fisical trainer of the youth divisions and need to keep on track of what players do, specializing in seeing progress in metrics or also to have backup if someone gets injured for checking if it was due to training or other reason. 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/6-7%20RICHARD%20V13.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/6-7%20RICHARD%20V13.pdf)
+Mar 2024 --> The coach ask me to set a dashboard with a database that he has on an excel sheet from his tracking of the trainings, he's the fisical trainer of the youth divisions and need to keep on track of what players do, specializing in seeing progress in metrics or also to have backup if someone gets injured for checking if it was due to training or other reason. 
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/6-7_RICHARD_.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/6-7_RICHARD_.pdf)
 
 
 
