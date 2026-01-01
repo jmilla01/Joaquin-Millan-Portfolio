@@ -118,7 +118,7 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 *January 2026* --> Interactive dashboard analyzing personal spending by time, country, and category. Includes KPI tracking, time intelligence (YTD, MoM), weekday behavior analysis, and drill-through detail pages built with DAX and a calendar model.
 
-[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadores.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadores.pdf)
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/JM%20gastos.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/JM%20gastos.pdf)
 
 ##### **`Sports dashboard for minor leagues for a football team`**
 
