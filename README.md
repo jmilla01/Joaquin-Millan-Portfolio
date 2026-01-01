@@ -114,6 +114,12 @@ In charge of the managing customers, selling Acuvue contact lenses to stores
 
 
 
+##### **`Personal Expenses Analysis`**
+
+*January 2026* --> Interactive dashboard analyzing personal spending by time, country, and category. Includes KPI tracking, time intelligence (YTD, MoM), weekday behavior analysis, and drill-through detail pages built with DAX and a calendar model.
+
+[File.pbix](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadores.pbix) - [PDF](https://github.com/jmilla01/Joaquin-Millan-Portfolio/blob/master/Files/jugadores.pdf)
+
 ##### **`Sports dashboard for minor leagues for a football team`**
 
 **`Update Dashboard`** - *June 2025* --> The client asked me to change the dashboard with a lot more players included from more divisions,more training excercise data and wanted to see all the information in one page. Also, to have other pages to compare players.
